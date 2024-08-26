@@ -106,7 +106,7 @@ const NavBar = ({ user, setUser, isDarkMode, setIsDarkMode }) => {
       <Menu.Item header className="nav-title">
         <div className="nav-logo">
           <Icon name="user circle" />
-          Profile Store
+          Contact Manager Pro
         </div>
       </Menu.Item>
       <Menu.Menu position="right">
